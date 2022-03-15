@@ -1,0 +1,9 @@
+.home {
+  width: 800px;
+  margin: auto;
+
+}
+.home ::v-deep .el-card{
+  min-height: 600px;
+  margin-top: 10px;
+}

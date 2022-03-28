@@ -6,14 +6,14 @@
 - truffle v5.4.22
 ## test-net-contract
 
-test-network:Rinkeby
+test-network:BNB TEST
 
 ### address
 
 #### DaoFactory
-0x65583cBC0c452B52f14810e4d2f54959a6F8d9C5
+0x7CBA17696eEE9c3d1feC11f67925a4e684c095B3
 #### ERC20Factory
-0x484B849bfF6aEb31dC6a8C7fE7B3ab3e0Fdaa228
+0x9CfaEACa4eD6CE4700A5aF4Dfc214E02c2DbE323
 
 
 

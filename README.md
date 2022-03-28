@@ -19,7 +19,7 @@ Submission address directory:
 http://www.rainbowdao.io/project
 
 Project demo website:
-https://multicommittee.rainbowdao.io/
+https://committee.rainbowdao.io/governance
 
 GitHub repository :
 https://github.com/RainbowDAO/03-DAO-Multi-Signature-Committee
